@@ -99,11 +99,11 @@ PC用のスタイル
     z-index: 100;
   }
 
-  #nav-sp nav ul {
+  #nav-sp ul {
     padding-left: 0;
   }
 
-  #nav-sp nav li {
+  #nav-sp li {
     list-style: none;
   }
 
